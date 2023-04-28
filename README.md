@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on learning web-dev<br>Talk to me in music, html and css <br>Say hi theerthaavnsh@gmail.com
+I'm currently working on learning web-dev<br>Talk to me in music, html and css <br>Say hi theerthaavnsh@gmail.com <br> Find my portfolio here : https://theerthaavinash.netlify.app/ <br>
 
 
 ## 🌐 Socials:
